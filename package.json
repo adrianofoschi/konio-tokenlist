@@ -1,0 +1,10 @@
+{
+  "name": "konio-tokenlist",
+  "version": "1.0.0",
+  "description": "Konio wallet listed coins",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "author": "E-Time"
+}
