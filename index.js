@@ -2,7 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 const inputFolderPath = './';
-const outputFolderPath = './dist';
+const outputFolderPath = './';
 
 const files = fs.readdirSync(inputFolderPath).map(fileName => {
     return path.join(inputFolderPath, fileName);
@@ -19,8 +19,4 @@ for (const file of files) {
     }
 }
 
-const outputData = JSON.stringify(output);
-if (!fs.existsSync(outputFolderPath)){
-    fs.mkdirSync(outputFolderPath);
-}
 fs.writeFileSync(`${outputFolderPath}/index.json`, outputData);
