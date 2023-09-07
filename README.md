@@ -8,7 +8,9 @@ The file must be named after the contractId, and its internal structure should b
     "chainId":"EiBZK_GGVP0H_fXVAM3j6EAuz3-B-l3ejxRSewi7qIBfSA==",
     "address":"15DJN4a8SgrbGhhGksSBASiSYjGnMU8dGL",
     "symbol":"KOIN",
-    "logo":"data:image/png;base64,...."
+    "priceUrl": "https://api.coingecko.com/api/v3/simple/price?ids=koinos&vs_currencies=usd",
+    "pricePath": "koinos.usd",
+    "logo":"https://url.to.your.png"
 }
 ```
 
