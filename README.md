@@ -10,6 +10,7 @@ The file must be named after the contractId, and its internal structure should b
     "symbol":"KOIN",
     "priceUrl": "https://api.coingecko.com/api/v3/simple/price?ids=koinos&vs_currencies=usd",
     "pricePath": "koinos.usd",
+    "priceUnit": "USD",
     "logo":"https://url.to.your.png"
 }
 ```
