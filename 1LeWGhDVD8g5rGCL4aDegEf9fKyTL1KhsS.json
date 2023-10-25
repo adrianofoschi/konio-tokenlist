@@ -3,5 +3,8 @@
   "address": "1LeWGhDVD8g5rGCL4aDegEf9fKyTL1KhsS",
   "symbol": "KAN",
   "name":"Kanvas",
+  "priceUrl":"https://kanvas-app.com/api/get_latest_price",
+  "pricePath":"kan_price_in_koin",
+  "priceUnit":"KOIN",
   "logo":"https://tokens.konio.io/logos/1LeWGhDVD8g5rGCL4aDegEf9fKyTL1KhsS.png"
 }

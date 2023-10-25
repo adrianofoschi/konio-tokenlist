@@ -5,5 +5,6 @@
     "name": "Koinos",
     "logo": "https://tokens.konio.io/logos/15DJN4a8SgrbGhhGksSBASiSYjGnMU8dGL.png",
     "priceUrl": "https://api.coingecko.com/api/v3/simple/price?ids=koinos&vs_currencies=usd",
-    "pricePath": "koinos.usd"
+    "pricePath": "koinos.usd",
+    "priceUnit": "USD"
 }
