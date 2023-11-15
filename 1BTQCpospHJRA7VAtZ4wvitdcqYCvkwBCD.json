@@ -1,0 +1,10 @@
+{
+  "chainId": "EiBZK_GGVP0H_fXVAM3j6EAuz3-B-l3ejxRSewi7qIBfSA==",
+  "address": "1BTQCpospHJRA7VAtZ4wvitdcqYCvkwBCD",
+  "symbol": "KCT",
+  "name": "Koin Crew Token",
+  "priceUrl":"https://tokens.koincrew.com/kct-api",
+  "pricePath":"price_in_koin",
+  "priceUnit":"KOIN",
+  "logo": "https://koincrew.com/IMG/kct-logo.png"
+}
