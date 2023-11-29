@@ -1,0 +1,10 @@
+{
+    "chainId": "EiBZK_GGVP0H_fXVAM3j6EAuz3-B-l3ejxRSewi7qIBfSA==",
+    "address": "1LeWGhDVD8g5rGCL4aDegEf9fKyTL1KhsS",
+    "symbol": "UP",
+    "name":"Liquidity",
+    "priceUrl":"https://tokens.koincrew.com/up/api",
+    "pricePath":"price_in_usd",
+    "priceUnit":"USD",
+    "logo":"https://tokens.koincrew.com/IMG/liquidity-logo.jpg"
+  }
