@@ -3,5 +3,8 @@
     "address":"1F81UPvBW4g2jFLU5VuBvoPeZFFHL5fPqQ",
     "symbol":"BTK",
     "name":"BitKoin",
+    "priceUrl":"https://tokens.koincrew.com/btk/api",
+    "pricePath":"price_in_usd",
+    "priceUnit":"USD",
     "logo":"https://www.bitkoincurrency.com/IMG/Bitkoin_Koindx.png"
 }
