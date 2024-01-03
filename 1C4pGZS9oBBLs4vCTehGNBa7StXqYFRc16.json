@@ -1,0 +1,10 @@
+{
+    "chainId": "EiBZK_GGVP0H_fXVAM3j6EAuz3-B-l3ejxRSewi7qIBfSA==",
+    "address": "1C4pGZS9oBBLs4vCTehGNBa7StXqYFRc16",
+    "symbol": "FR",
+    "name": "Frenchie",
+    "priceUrl":"https://tokens.koincrew.com/fr/api",
+    "pricePath":"price_in_usd",
+    "priceUnit":"USD",
+    "logo": "https://koincity.com/assets/1703870276400.png"
+}
