@@ -3,5 +3,8 @@
     "address": "143CLkKmfqa6trCbjxDMKojjeLq2q4RGD8",
     "symbol": "OGAS",
     "name": "Koin OGAS",
+    "priceUrl":"https://tokens.koincrew.com/ogas/api",
+    "pricePath":"price_in_usd",
+    "priceUnit":"USD",
     "logo": "https://koincity.com/assets/1704131046642.jpg"
 }

@@ -3,5 +3,8 @@
   "address": "1HMmpaijocfMvTXDZ6hchQdqDfg2YoFdca",
   "symbol": "MK",
   "name": "1000",
+  "priceUrl":"https://tokens.koincrew.com/mk/api",
+  "pricePath":"price_in_usd",
+  "priceUnit":"USD",
   "logo": "https://tokens.konio.io/logos/1HMmpaijocfMvTXDZ6hchQdqDfg2YoFdca.png"
 }
