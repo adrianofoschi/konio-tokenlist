@@ -3,5 +3,8 @@
     "address": "1KU6cUY3TwYQzTRHakUcviiYmxNepRKkhQ",
     "symbol": "DGK",
     "name": "Dogekoin",
+    "priceUrl":"https://tokens.koincrew.com/dgk/api",
+    "pricePath":"price_in_usd",
+    "priceUnit":"USD",
     "logo": "https://tokens.konio.io/logos/1KU6cUY3TwYQzTRHakUcviiYmxNepRKkhQ.png"
 }
