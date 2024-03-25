@@ -1,0 +1,10 @@
+{
+    "chainId": "EiBZK_GGVP0H_fXVAM3j6EAuz3-B-l3ejxRSewi7qIBfSA==",
+    "address": "156h8x3tqjzsXQX6XXf7h6AuXQifMkC6Em",
+    "symbol": "BURG",
+    "name": "BURGER&FRIES",
+    "priceUrl":"https://tokens.koincrew.com/burg/api",
+    "pricePath":"price_in_usd",
+    "priceUnit":"USD",
+    "logo": "https://tokens.konio.io/logos/156h8x3tqjzsXQX6XXf7h6AuXQifMkC6Em.png"
+}
