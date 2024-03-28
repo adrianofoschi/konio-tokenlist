@@ -2,6 +2,7 @@
     "chainId":"EiBZK_GGVP0H_fXVAM3j6EAuz3-B-l3ejxRSewi7qIBfSA==",
     "address":"1EoGf6wPB632JudW1P12aSByLJdeNajWoU",
     "symbol":"MEOW",
+    "name": "Meow",
     "priceUrl": "https://tokens.koincrew.com/meow/api",
     "pricePath": "price_in_usd",
     "priceUnit": "USD",
