@@ -1,0 +1,10 @@
+{
+    "chainId": "EiBZK_GGVP0H_fXVAM3j6EAuz3-B-l3ejxRSewi7qIBfSA==",
+    "address": "1H1tWd95HvL2wT25qpXrVMosGdGUNPRFiA",
+    "symbol": "RWA",
+    "name": "RWA",
+    "priceUrl":"https://tokens.koincrew.com/rwa/api",
+    "pricePath":"price_in_usd",
+    "priceUnit":"USD",
+    "logo": "https://tokens.konio.io/logos/1H1tWd95HvL2wT25qpXrVMosGdGUNPRFiA.png"
+  }
