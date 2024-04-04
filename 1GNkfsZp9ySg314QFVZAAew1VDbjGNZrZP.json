@@ -1,0 +1,10 @@
+{
+    "chainId": "EiBZK_GGVP0H_fXVAM3j6EAuz3-B-l3ejxRSewi7qIBfSA==",
+    "address": "1GNkfsZp9ySg314QFVZAAew1VDbjGNZrZP",
+    "symbol": "KG",
+    "name": "Koinos Garden",
+    "priceUrl":"https://tokens.koincrew.com/kg/api",
+    "pricePath":"price_in_usd",
+    "priceUnit":"USD",
+    "logo": "https://tokens.konio.io/logos/1GNkfsZp9ySg314QFVZAAew1VDbjGNZrZP.png"
+}
