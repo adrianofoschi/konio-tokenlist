@@ -3,7 +3,7 @@
   "address":"1KroK111wVj8QU3ydFHqPpNyVtfgV8n755",
   "symbol":"KROK",
   "name":"KroKoin",
-  "priceUrl":"https://tokens.koincrew.com/krok/api",
+  "priceUrl":"https://koinoscap.com/krok/api",
   "pricePath":"price_in_usd",
   "priceUnit":"USD",
   "logo":"https://krokoin.com/assets/krok.png"
