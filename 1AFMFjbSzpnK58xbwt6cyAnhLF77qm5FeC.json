@@ -3,7 +3,7 @@
     "address": "1AFMFjbSzpnK58xbwt6cyAnhLF77qm5FeC",
     "symbol": "EGG",
     "name": "Egg",
-    "priceUrl":"https://tokens.koincrew.com/egg/api",
+    "priceUrl":"https://koinoscap.com/egg/api",
     "pricePath":"price_in_usd",
     "priceUnit":"USD",
     "logo": "https://tokens.konio.io/logos/1AFMFjbSzpnK58xbwt6cyAnhLF77qm5FeC.png"
