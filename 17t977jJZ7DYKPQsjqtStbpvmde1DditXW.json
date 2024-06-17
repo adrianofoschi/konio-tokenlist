@@ -3,7 +3,7 @@
   "address": "17t977jJZ7DYKPQsjqtStbpvmde1DditXW",
   "symbol": "UP",
   "name": "Liquidity",
-  "priceUrl": "https://tokens.koincrew.com/up/api",
+  "priceUrl": "https://koinoscap.com/up/api",
   "pricePath": "price_in_usd",
   "priceUnit": "USD",
   "logo": "https://tokens.koincrew.com/IMG/liquidity-logo.jpg"
