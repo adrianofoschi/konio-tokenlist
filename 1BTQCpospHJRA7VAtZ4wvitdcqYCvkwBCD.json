@@ -3,7 +3,7 @@
   "address": "1BTQCpospHJRA7VAtZ4wvitdcqYCvkwBCD",
   "symbol": "KCT",
   "name": "Koin Crew Token",
-  "priceUrl":"https://tokens.koincrew.com/kct/api",
+  "priceUrl":"https://koinoscap.com/kct/api",
   "pricePath":"price_in_usd",
   "priceUnit":"USD",
   "logo": "https://koincrew.com/IMG/kct-logo.png"
