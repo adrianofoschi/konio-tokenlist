@@ -3,7 +3,7 @@
     "address": "1A7ix1dr77wUVD3XtCwbthbysT5LeB1CeG",
     "symbol": "DRUGS",
     "name":"D.A.R.E.",
-    "priceUrl":"https://tokens.koincrew.com/drugs/api",
+    "priceUrl":"https://koinoscap.com/drugs/api",
     "pricePath":"price_in_usd",
     "priceUnit":"USD",
     "logo":"https://tokens.koincrew.com/IMG/DRUGS-token.jpg"
