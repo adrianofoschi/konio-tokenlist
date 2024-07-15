@@ -3,7 +3,7 @@
   "address": "189TkvhzpeRg56EnhysLa5YP9ufvaXTcWn",
   "symbol": "MARS",
   "name": "ElonKOIN",
-  "priceUrl":"https://tokens.koincrew.com/mars/api",
+  "priceUrl":"https://koinoscap.com/mars/api",
   "pricePath":"price_in_usd",
   "priceUnit":"USD",
   "logo": "https://tokens.konio.io/logos/189TkvhzpeRg56EnhysLa5YP9ufvaXTcWn.png"

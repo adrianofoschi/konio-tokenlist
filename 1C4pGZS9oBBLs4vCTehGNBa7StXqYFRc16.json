@@ -3,7 +3,7 @@
     "address": "1C4pGZS9oBBLs4vCTehGNBa7StXqYFRc16",
     "symbol": "FR",
     "name": "Frenchie",
-    "priceUrl":"https://tokens.koincrew.com/fr/api",
+    "priceUrl":"https://koinoscap.com/fr/api",
     "pricePath":"price_in_usd",
     "priceUnit":"USD",
     "logo": "https://koincity.com/assets/1703870276400.png"

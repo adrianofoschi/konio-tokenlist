@@ -3,7 +3,7 @@
     "address": "1GNkfsZp9ySg314QFVZAAew1VDbjGNZrZP",
     "symbol": "KG",
     "name": "Koinos Garden",
-    "priceUrl":"https://tokens.koincrew.com/kg/api",
+    "priceUrl":"https://koinoscap.com/kg/api",
     "pricePath":"price_in_usd",
     "priceUnit":"USD",
     "logo": "https://tokens.konio.io/logos/1GNkfsZp9ySg314QFVZAAew1VDbjGNZrZP.png"
