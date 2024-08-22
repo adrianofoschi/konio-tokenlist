@@ -1,0 +1,10 @@
+{
+    "chainId":"EiBZK_GGVP0H_fXVAM3j6EAuz3-B-l3ejxRSewi7qIBfSA==",
+    "address":"19bbwAGVQLsTmTSoWanmrQ4w4VfyB8cwwK",
+    "symbol":"STEWIE",
+    "name":"Stewie",
+    "priceUrl":"https://koinoscap.com/stewie/api",
+    "pricePath":"price_in_usd",
+    "priceUnit":"USD",
+    "logo":"https://tokens.konio.io/logos/19bbwAGVQLsTmTSoWanmrQ4w4VfyB8cwwK.png"
+}

@@ -1,0 +1,10 @@
+{
+    "chainId":"EiBZK_GGVP0H_fXVAM3j6EAuz3-B-l3ejxRSewi7qIBfSA==",
+    "address":"185AAuBvei7wJnmwqjZz8u5eRLAXtbPd4C",
+    "symbol":"SF",
+    "name":"Silly Feed",
+    "priceUrl":"https://koinoscap.com/sf/api",
+    "pricePath":"price_in_usd",
+    "priceUnit":"USD",
+    "logo":"https://tokens.konio.io/logos/185AAuBvei7wJnmwqjZz8u5eRLAXtbPd4C.png"
+}
